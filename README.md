@@ -24,10 +24,10 @@ This repository contains the code and documentation for a modular AMR test platf
 | AWR1843 mmWave Radar| Obstacle detection and mapping                      |
 | Camera System  | Used for collecting test footage and also object detection                      |
 | ESP32 x2            | Micro-ROS nodes for motor/LED control and sensors   |
-| DC Motor Driver     | Dual-channel driver with encoder feedback           |
+| BLDC Motor Driver     | TRAXXAS Truck BLDC motor and ESC           |
 | IMU + GPS Module    | Used for localization and dead-reckoning fusion     |
 | Battery Monitor     | Custom circuit for voltage and current feedback     |
-| Chassis             | Custom mobile base (4WD or differential drive)      |
+| Chassis             | TRAXXAS MAXX 4S 4WD Chassis      |
 
 ---
 
