@@ -4,7 +4,9 @@ This repository contains the code and documentation for a modular AMR test platf
 
 ---
 ## 🤖 AMR Test Plaform
-![AMR TEST PLATFORM](Images/AMR_Test_Platform.jpg)
+<p align="center">
+  <img src="Images/AMR_Test_Platform.jpg" alt="AMR TEST PLATFORM" width="600"/>
+</p>
 
 ## 📌 Features
 
@@ -34,10 +36,16 @@ This repository contains the code and documentation for a modular AMR test platf
 ---
 
 ## 🧠 Circuit Design
-![Circuit Diagram](Images/AMR_Circuit_Diagram.jpg)
+<p align="center">
+  <img src="Images/AMR_Circuit_Diagram.jpg" alt="Circuit Diagram" width="600"/>
+</p>
 
 ## 📐 CAD Design
-![3D CAD](Images/AMR_CAD.jpg)
+<p align="center">
+  <img src="Images/AMR_CAD.jpg" alt="3D CAD" width="600"/>
+</p>
 
 ## 🧰 Tests
-![Testing Results](Images/AMR_Test.jpg)
+<p align="center">
+  <img src="Images/AMR_Test.jpg" alt="Testing Results" width="600"/>
+</p>
