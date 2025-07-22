@@ -3,6 +3,8 @@
 This repository contains the code and documentation for a modular AMR test platform built to validate real-world navigation, localization, and safety features. The system integrates multiple sensors and compute elements including the **Jetson Nano**, **mmWave radar**, **IMU + GPS**, and **ESP32** microcontrollers to support advanced robotics development using **ROS 2** and **Micro-ROS**.
 
 ---
+## 🤖 AMR Test Plaform
+![AMR TEST PLATFORM](Images/AMR_Test_Platform.jpg)
 
 ## 📌 Features
 
@@ -33,3 +35,9 @@ This repository contains the code and documentation for a modular AMR test platf
 
 ## 🧠 Circuit Design
 ![Circuit Diagram](Images/AMR_Circuit_Diagram.jpg)
+
+## 📐 CAD Design
+![3D CAD](Images/AMR_CAD.jpg)
+
+## 🧰 Tests
+![Testing Results](Images/AMR_Test.jpg)
