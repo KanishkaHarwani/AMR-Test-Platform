@@ -32,4 +32,4 @@ This repository contains the code and documentation for a modular AMR test platf
 ---
 
 ## 🧠 Circuit Design
-![Circuit Diagram](Images/AMR_Test_Platform_Circuit_Diagram.jpg)
+![Circuit Diagram](Images/AMR_Circuit_Diagram.jpg)
