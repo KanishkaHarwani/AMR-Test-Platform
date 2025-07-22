@@ -47,5 +47,5 @@ This repository contains the code and documentation for a modular AMR test platf
 
 ## 🧰 Tests
 <p align="center">
-  <img src="Images/AMR_Test.jpg" alt="Testing Results" width="600"/>
+  <img src="Images/AMR_Test.jpg" alt="Testing Results" width="800"/>
 </p>
